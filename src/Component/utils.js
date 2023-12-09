@@ -7,7 +7,7 @@ export const analyze = (text) => {
         return 'Im Chatbat create by Goku?'
         else if (text.includes('miss you'))
         return 'I miss you to?'
-        else if (text.includes('I love you'))
+        else if (text.includes('i love you'))
         return 'I love you to dear?'
         else if (text.includes('Who are you'))
         return 'I am Goku?'
@@ -15,9 +15,9 @@ export const analyze = (text) => {
         return 'I miss you to?'
         else if (text.includes('i want one qustions'))
         return 'Tell me?'
-        else if (text.includes('Baby'))
+        else if (text.includes('baby'))
         return 'Tell me baby ?'
-        else if (text.includes('Dsp'))
+        else if (text.includes('dsp'))
         return 'Dvi?'
 
 
@@ -44,50 +44,50 @@ export const analyze = (text) => {
       else if (text.includes('salem'))
       return 'https://salem.nic.in/'
 
-      else if (text.includes('Rrb'))
+      else if (text.includes('rrb'))
         return 'https://www.rrbbnc.gov.in/'
 
-        else if (text.includes('Tn velaivaaippu'))
+        else if (text.includes('tn velaivaaippu'))
         return 'https://tnvelaivaaippu.gov.in/Empower/'
 
-        else if (text.includes('Indian railway'))
+        else if (text.includes('indian railway'))
         return 'https://indianrailways.gov.in/railwayboard/view_section.jsp?lang=0&id=0,5,373,2817'
 
-        else if (text.includes('Eshram'))
+        else if (text.includes('eshram'))
         return 'https://eshram.gov.in/'
 
-        else if (text.includes('My govt'))
+        else if (text.includes('my govt'))
         return 'https://www.mygov.in/work-at-mygov/'
 
-        else if (text.includes('Govt job'))
+        else if (text.includes('govt job'))
         return 'https://www.govtjobsportal.in/'
 
-        else if (text.includes('Ncs'))
+        else if (text.includes('ncs'))
         return 'https://www.ncs.gov.in/'
 
-        else if (text.includes('Hdhm'))
+        else if (text.includes('hdhm'))
         return 'https://hpr.ndhm.gov.in/en/users/login'
 
-        else if (text.includes('My aadhaar'))
+        else if (text.includes('my aadhaar'))
         return 'https://myaadhaar.uidai.gov.in/'
 
 
-        else if (text.includes('Uidai'))
+        else if (text.includes('uidai'))
         return 'https://eaadhaar.uidai.gov.in/genricDownloadAadhaar'
 
-        else if (text.includes('Upsc'))
+        else if (text.includes('upsc'))
         return'https://upsc.gov.in/'
 
-        else if( text.includes('Tn book'))
+        else if( text.includes('tn book'))
         return'https://www.tntextbooks.co.in/?m=1'
 
-        else if( text.includes('Army'))
+        else if( text.includes('army'))
         return'https://www.joinindianarmy.nic.in/Authentication.aspx'
 
-        else if( text.includes('Tn book old'))
+        else if( text.includes('tn book old'))
         return'https://www.tnpscjob.com/new-samacheer-kalvi-9th-books/'
 
-        else if( text.includes('Tnpds'))
+        else if( text.includes('tnpds'))
         return'https://tnpds.gov.in/'
 
 
